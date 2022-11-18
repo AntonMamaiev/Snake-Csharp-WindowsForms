@@ -11,7 +11,7 @@
 ## Features
 
 * 3 dificulty levels (Hard/Medium/Easy).
-* 3 types of apples (Red = 1 point, Green =  5 points, Purple - 15 points)
+* 3 types of apples (Red - 1 point, Green -  5 points, Purple - 15 points)
 * Achivements (500 apples for every type, 500 games played etc.)
 * 5 types of snake color with bonuses for each of it (green - +10% chance for green apples to apear etc.)
 * Main goal to unlock all achivements.
