@@ -1,0 +1,22 @@
+C:\Users\anton_i2sb4ad\Desktop\Курсач\Курсач 2\Snake\Snake Kursach\Snake Kursach\bin\Release\Snake Kursach.exe.config
+C:\Users\anton_i2sb4ad\Desktop\Курсач\Курсач 2\Snake\Snake Kursach\Snake Kursach\bin\Release\Snake Kursach.exe
+C:\Users\anton_i2sb4ad\Desktop\Курсач\Курсач 2\Snake\Snake Kursach\Snake Kursach\bin\Release\Snake Kursach.pdb
+C:\Users\anton_i2sb4ad\Desktop\Курсач\Курсач 2\Snake\Snake Kursach\Snake Kursach\obj\Release\Snake_Kursach.Form1.resources
+C:\Users\anton_i2sb4ad\Desktop\Курсач\Курсач 2\Snake\Snake Kursach\Snake Kursach\obj\Release\Snake_Kursach.Game.resources
+C:\Users\anton_i2sb4ad\Desktop\Курсач\Курсач 2\Snake\Snake Kursach\Snake Kursach\obj\Release\Snake_Kursach.Properties.Resources.resources
+C:\Users\anton_i2sb4ad\Desktop\Курсач\Курсач 2\Snake\Snake Kursach\Snake Kursach\obj\Release\Snake Kursach.csproj.GenerateResource.cache
+C:\Users\anton_i2sb4ad\Desktop\Курсач\Курсач 2\Snake\Snake Kursach\Snake Kursach\obj\Release\Snake Kursach.csproj.CoreCompileInputs.cache
+C:\Users\anton_i2sb4ad\Desktop\Курсач\Курсач 2\Snake\Snake Kursach\Snake Kursach\obj\Release\Snake Kursach.exe
+C:\Users\anton_i2sb4ad\Desktop\Курсач\Курсач 2\Snake\Snake Kursach\Snake Kursach\obj\Release\Snake Kursach.pdb
+C:\Users\anton_i2sb4ad\Desktop\Курсач\Курсач 2\Snake\Snake Kursach\Snake Kursach\obj\Release\Snake Kursach.csprojAssemblyReference.cache
+C:\Users\anton_i2sb4ad\Desktop\Курсач\Курсач 2\Snake\Snake Kursach\Проект VS\Snake Kursach\bin\Release\Snake Kursach.exe.config
+C:\Users\anton_i2sb4ad\Desktop\Курсач\Курсач 2\Snake\Snake Kursach\Проект VS\Snake Kursach\bin\Release\Snake Kursach.exe
+C:\Users\anton_i2sb4ad\Desktop\Курсач\Курсач 2\Snake\Snake Kursach\Проект VS\Snake Kursach\bin\Release\Snake Kursach.pdb
+C:\Users\anton_i2sb4ad\Desktop\Курсач\Курсач 2\Snake\Snake Kursach\Проект VS\Snake Kursach\obj\Release\Snake Kursach.csprojAssemblyReference.cache
+C:\Users\anton_i2sb4ad\Desktop\Курсач\Курсач 2\Snake\Snake Kursach\Проект VS\Snake Kursach\obj\Release\Snake_Kursach.Form1.resources
+C:\Users\anton_i2sb4ad\Desktop\Курсач\Курсач 2\Snake\Snake Kursach\Проект VS\Snake Kursach\obj\Release\Snake_Kursach.Game.resources
+C:\Users\anton_i2sb4ad\Desktop\Курсач\Курсач 2\Snake\Snake Kursach\Проект VS\Snake Kursach\obj\Release\Snake_Kursach.Properties.Resources.resources
+C:\Users\anton_i2sb4ad\Desktop\Курсач\Курсач 2\Snake\Snake Kursach\Проект VS\Snake Kursach\obj\Release\Snake Kursach.csproj.GenerateResource.cache
+C:\Users\anton_i2sb4ad\Desktop\Курсач\Курсач 2\Snake\Snake Kursach\Проект VS\Snake Kursach\obj\Release\Snake Kursach.csproj.CoreCompileInputs.cache
+C:\Users\anton_i2sb4ad\Desktop\Курсач\Курсач 2\Snake\Snake Kursach\Проект VS\Snake Kursach\obj\Release\Snake Kursach.exe
+C:\Users\anton_i2sb4ad\Desktop\Курсач\Курсач 2\Snake\Snake Kursach\Проект VS\Snake Kursach\obj\Release\Snake Kursach.pdb

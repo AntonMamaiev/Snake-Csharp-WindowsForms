@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake Kursach", "Snake Kursach\Snake Kursach.csproj", "{8D39920F-02C6-446F-B9B6-AEC9A41D6A1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Final release|Any CPU = Final release|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D39920F-02C6-446F-B9B6-AEC9A41D6A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D39920F-02C6-446F-B9B6-AEC9A41D6A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D39920F-02C6-446F-B9B6-AEC9A41D6A1A}.Final release|Any CPU.ActiveCfg = Final release|Any CPU
+		{8D39920F-02C6-446F-B9B6-AEC9A41D6A1A}.Final release|Any CPU.Build.0 = Final release|Any CPU
+		{8D39920F-02C6-446F-B9B6-AEC9A41D6A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D39920F-02C6-446F-B9B6-AEC9A41D6A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6495A88-F18D-4359-BA41-AA56A0C29D19}
+	EndGlobalSection
+EndGlobal
